@@ -1,4 +1,4 @@
-Name: Josue
+name: Build IPA
 
 on:
   push:
